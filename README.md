@@ -1,5 +1,5 @@
-📊 Advanced Techniques in Data Visualization (Kenya Context)
-📌 Project Overview
+# 📊 Advanced Techniques in Data Visualization (Kenya Context)
+## 📌 Project Overview
 This project demonstrates advanced data visualization techniques using Python, focusing on real-world Kenyan datasets. It showcases how raw data can be transformed into meaningful insights through both static and interactive visualizations.
 The project covers socio-economic analysis, healthcare trends, rainfall patterns, classification performance, and network relationships.
 ________________________________________
